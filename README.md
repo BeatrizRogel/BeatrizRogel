@@ -5,5 +5,7 @@
 - 📫 How to reach me: brogel@asu.edu or Linkedin https://www.linkedin.com/in/beatriz-rogel-43b28a349/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have two Catahoula Leopard dogs named Darla and Ash they are my babies.🐶🐶
+
+- 
 [![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizRogel&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
