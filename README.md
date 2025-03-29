@@ -6,6 +6,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have two Catahoula Leopard dogs named Darla and Ash they are my babies.🐶🐶
 
-- 
+  
 [![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizRogel&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
